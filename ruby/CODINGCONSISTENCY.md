@@ -68,7 +68,7 @@ Consistency in indentation and spacing will make studying the code easier.
 
 **Guidelines for indentation and spacing:**
 
-- Ruby on Rails: [Indentation and Spacing Document](https://docs.google.com/document/d/1kwybqlgewbzL3Z-2ZoUZS-92FJzqseUtXiFNLk7NO80/edit)
+- For guidelines to comments and spacing, please refer to [COMMENTSANDSPACING.md](COMMENTSANDSPACING.md).
 
 ### Bad - Inconsistent Indentations
 

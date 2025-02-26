@@ -1,4 +1,4 @@
-# Gurzu best practices
+# Gurzu Best Practices
 Best practices we follow in Gurzu
 
 

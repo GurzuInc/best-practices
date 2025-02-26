@@ -1,6 +1,5 @@
 # Gurzu Best Practices
-Best practices we follow in Gurzu
-
+This collection of best practices at Gurzu helps us strengthen our engineering excellence.
 
 # Contributing
 ### Update Changes

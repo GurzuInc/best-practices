@@ -16,6 +16,9 @@ This collection of best practices at Gurzu helps us strengthen our engineering e
 1. [Coding Consistency](https://github.com/GurzuInc/best-practices/blob/main/ruby/CODINGCONSISTENCY.md)
 2. [Comment and Spacing](https://github.com/GurzuInc/best-practices/blob/main/ruby/COMMENTSANDSPACING.md)
 
+### Javascript
+1. [Code Consistency](javascript/code-consistency)
+
 # Contributing
 ### Update Changes
 1. Fork it (https://github.com/GurzuInc/best-practices/fork)

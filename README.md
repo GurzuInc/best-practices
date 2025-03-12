@@ -12,12 +12,12 @@ This collection of best practices at Gurzu helps us strengthen our engineering e
 4. [Pull Request Process](https://github.com/GurzuInc/best-practices/tree/main/pull-request)
 5. [Release Cycle & Steps For Release](https://github.com/GurzuInc/best-practices/tree/main/releases)
 
+### Javascript
+1. [Code Consistency](javascript/code-consistency)
+
 ### Ruby
 1. [Coding Consistency](https://github.com/GurzuInc/best-practices/blob/main/ruby/CODINGCONSISTENCY.md)
 2. [Comment and Spacing](https://github.com/GurzuInc/best-practices/blob/main/ruby/COMMENTSANDSPACING.md)
-
-### Javascript
-1. [Code Consistency](javascript/code-consistency)
 
 # Contributing
 ### Update Changes

@@ -178,6 +178,13 @@ console.log(user.profile?.name); // Avoids TypeError
 console.log(user.profile.name); // Error if profile is undefined
 ```
 
+```js
+//Preffred way
+console.log(userA ?? userB) // onlyif userA is either null or undefined it choose userB
+
+//Okay not bad
+console.log(userA ? userA : userB)
+```
 ## Asynchronous Code
 
 Asynchronous JavaScript is essential for handling tasks like API calls, file operations, or database queries efficiently. Below are the best practices for writing clean and maintainable asynchronous code.
@@ -220,6 +227,32 @@ Use `Promise.all` for running multiple independent async tasks concurrently.
 async function fetchMultipleUsers(userIds) {
   const userPromises = userIds.map(id => fetch(`https://api.example.com/users/${id}`).then(res => res.json()));
   return await Promise.all(userPromises);
+}
+```
+
+Use `Promise.allSettle` Similar to Promise.all(), but it waits for all promises to settle (either resolved or rejected) and returns their results.
+
+```js
+async function fetchUsers(userIds) {
+  const userPromises = userIds.map(id => fetch(`https://api.example.com/users/${id}`).then(res => res.json()));
+  const results = await Promise.allSettled(userPromises);
+  
+  return results.map(result => result.status === "fulfilled" ? result.value : { error: "Failed to fetch" });
+}
+```
+
+Use `Promise.race` Returns the result of the first promise that settles (either resolved or rejected).
+Use cases: Fetching from multiple servers and using the fastest
+
+```js
+async function fetchFastestUser(userId) {
+  const servers = [
+    `https://api1.example.com/users/${userId}`,
+    `https://api2.example.com/users/${userId}`
+  ];
+  
+  const userPromises = servers.map(url => fetch(url).then(res => res.json()));
+  return await Promise.race(userPromises);
 }
 ```
 

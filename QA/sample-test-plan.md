@@ -8,39 +8,56 @@
 Test Plan Document
 
   
-MM-DD-YYYY  
-Version: x.x.x  
-Author: QA Engineer  
-Reviewed by: Product Owner  
-Revised Date: MM-DD-YYYY
+<table border="1" style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <th>Date</th>
+    <th>Version</th>
+    <th>Author</th>
+    <th>Reviewed By</th>
+    <th>Revised Date</th>
+  </tr>
+  <tr>
+    <td>MM-DD-YYYY</td>
+    <td>x.x.x</td>
+    <td>QA Engineer</td>
+    <td>Product Owner</td>
+    <td>MM-DD-YYYY</td>
+  </tr>
+</table>
 
 ##### Table of Contents
 
   
-About document 2  
-Scope of test 2  
-Features to be tested 2  
-Assumptions, Suspensions, and Resumptions 2  
-Project Management Tool 2  
-Test Management Tool 2  
-Test Environment 3  
-Tools Used 3  
-Preliminary Action needs to be taken before Sprint 3  
-Test to Perform 3  
-Issue Logging (Defect Tracking and Reporting) 4  
-Defect Severity 4  
-Bug Reporting Template 5  
-JIRA Task Template 5  
-Test Completeness 5  
-Test Deliverables 6  
-Before Testing Phase 6  
-During the Testing 6  
-After the testing cycle is over 6  
-Test Process 6  
-Roles and Responsibilities 7  
-Risks, Issues, and Dependencies 7  
-List of Approvals 7  
-Terms/Acronyms 8
+<table border="1" style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <th>Section Title</th>
+    <th>Page</th>
+  </tr>
+  <tr><td>About Document</td><td>2</td></tr>
+  <tr><td>Scope of Test</td><td>2</td></tr>
+  <tr><td>Features to be Tested</td><td>2</td></tr>
+  <tr><td>Assumptions, Suspensions, and Resumptions</td><td>2</td></tr>
+  <tr><td>Project Management Tool</td><td>2</td></tr>
+  <tr><td>Test Management Tool</td><td>2</td></tr>
+  <tr><td>Test Environment</td><td>3</td></tr>
+  <tr><td>Tools Used</td><td>3</td></tr>
+  <tr><td>Preliminary Action before Sprint</td><td>3</td></tr>
+  <tr><td>Test to Perform</td><td>3</td></tr>
+  <tr><td>Issue Logging (Defect Tracking and Reporting)</td><td>4</td></tr>
+  <tr><td>Defect Severity</td><td>4</td></tr>
+  <tr><td>Bug Reporting Template</td><td>5</td></tr>
+  <tr><td>JIRA Task Template</td><td>5</td></tr>
+  <tr><td>Test Completeness</td><td>5</td></tr>
+  <tr><td>Test Deliverables</td><td>6</td></tr>
+  <tr><td>Before Testing Phase</td><td>6</td></tr>
+  <tr><td>During the Testing</td><td>6</td></tr>
+  <tr><td>After the Testing Cycle is Over</td><td>6</td></tr>
+  <tr><td>Test Process</td><td>6</td></tr>
+  <tr><td>Roles and Responsibilities</td><td>7</td></tr>
+  <tr><td>Risks, Issues, and Dependencies</td><td>7</td></tr>
+  <tr><td>List of Approvals</td><td>7</td></tr>
+  <tr><td>Terms/Acronyms</td><td>8</td></tr>
+</table>
 
 #####  
 
@@ -221,4 +238,4 @@ A list of the team members will approve the documents
   
 List of the Acronyms mostly used in the project.
 
-<table border="1" id="bkmrk-term%2Facronym-definit" style="border-collapse: collapse; width: 100%;"><tbody><tr><td style="width: 50%;">**Term/Acronym**</td><td style="width: 50%;">**Definition/Full Form**</td></tr><tr><td style="width: 50%;">UAT</td><td style="width: 50%;">User Acceptance Test/ing</td></tr><tr><td style="width: 50%;">API</td><td style="width: 50%;">Application Program Interface</td></tr><tr><td style="width: 50%;">TDD</td><td style="width: 50%;">Test-Driven Development</td></tr><tr><td style="width: 50%;">BDD</td><td style="width: 50%;">Behavior Driven Development</td></tr><tr><td style="width: 50%;">UI</td><td style="width: 50%;">User Interface</td></tr><tr><td style="width: 50%;">UX</td><td style="width: 50%;">User Experience</td></tr><tr><td style="width: 50%;">MVP</td><td style="width: 50%;">Minimum Viable Product</td></tr><tr><td style="width: 50%;">SOW</td><td style="width: 50%;">Statement of Work</td></tr><tr><td style="width: 50%;">E2E Test</td><td style="width: 50%;">End to End Test</td></tr><tr><td style="width: 50%;">B2B</td><td style="width: 50%;">Business to Business</td></tr><tr><td style="width: 50%;">B2C</td><td style="width: 50%;">Business to Customer/Consumer</td></tr></tbody></table>
+<table border="1" id="bkmrk-term%2Facronym-definit" style="border-collapse: collapse; width: 100%;"><tbody><tr><td style="width: 50%;">Term/Acronym</td><td style="width: 50%;">Definition/Full Form</td></tr><tr><td style="width: 50%;">UAT</td><td style="width: 50%;">User Acceptance Test/ing</td></tr><tr><td style="width: 50%;">API</td><td style="width: 50%;">Application Program Interface</td></tr><tr><td style="width: 50%;">TDD</td><td style="width: 50%;">Test-Driven Development</td></tr><tr><td style="width: 50%;">BDD</td><td style="width: 50%;">Behavior Driven Development</td></tr><tr><td style="width: 50%;">UI</td><td style="width: 50%;">User Interface</td></tr><tr><td style="width: 50%;">UX</td><td style="width: 50%;">User Experience</td></tr><tr><td style="width: 50%;">MVP</td><td style="width: 50%;">Minimum Viable Product</td></tr><tr><td style="width: 50%;">SOW</td><td style="width: 50%;">Statement of Work</td></tr><tr><td style="width: 50%;">E2E Test</td><td style="width: 50%;">End to End Test</td></tr><tr><td style="width: 50%;">B2B</td><td style="width: 50%;">Business to Business</td></tr><tr><td style="width: 50%;">B2C</td><td style="width: 50%;">Business to Customer/Consumer</td></tr></tbody></table>

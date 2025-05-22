@@ -113,7 +113,7 @@ Before starting the Sprint all the team members should sit and have a Backlog Gr
 
 Issues will be logged using JIRA and depending upon the severity, the issue will be tracked in the backlog or assigned to the developer in the current sprint.
 
-[![Test Plan - Sandcastle.png](https://wiki.gurzu.net/uploads/images/gallery/2021-12/scaled-1680-/XDdkyEAgpMs4oDkr-test-plan-sandcastle.png)](https://wiki.gurzu.net/uploads/images/gallery/2021-12/XDdkyEAgpMs4oDkr-test-plan-sandcastle.png)  
+![Test Plan - Defect tracking and Reporting workflow.png](XDdkyEAgpMs4oDkr-test-plan-sandcastle.png)  
 Fig: Defect tracking and Reporting workflow
 
 ##### Defect Severity

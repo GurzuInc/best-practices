@@ -2,10 +2,10 @@
 
 ### <span id="bkmrk--1" style="font-weight: normal;"><span style="border-width: initial; border-style: none; display: inline-block; overflow: hidden; width: 130px; height: 106px;">![](https://lh6.googleusercontent.com/Iln1Zv0Ixo6wOyqckh6FC6ARnqqi9lRuXQlJONyLluBFHsWM983fDgBQH1FFW0R3hD6ZFNSTO6FbSNf-sSo0j5vk9i0Gkwzh3b5L8TbAHwXiAU3XTOfPMHUxCGZ1MtnnC_CIwgaz)</span></span>
 
-### Project Name
+# **Project Name**
 
 ####   
-Test Plan Document
+## **Test Plan Document**
 
   
 <table border="1" style="border-collapse: collapse; width: 100%;">
@@ -25,7 +25,7 @@ Test Plan Document
   </tr>
 </table>
 
-##### Table of Contents
+## **Table of Contents**
 
   
 <table border="1" style="border-collapse: collapse; width: 100%;">
@@ -59,44 +59,41 @@ Test Plan Document
   <tr><td>Terms/Acronyms</td><td>8</td></tr>
 </table>
 
+
 #####  
 
-#####   
-About document
+## **About document**
 
-  
 The document highlights the Quality Assurance process implemented for the Audit app of the Sunseeker hotel network. Once we plan for future releases, the test plan will be updated accordingly.
 
-#####   
-Scope of test
+## **Scope of test**
 
 Test Scenarios/Test Objectives that will be validated. Clear picture for what we are going to cover (Example: Functional Test, Non-functional Test, etc).
 
-#####   
-Features to be tested
+## **Features to be tested**
 
 After the Sprint planning, the QA team will prepare all the required test data, Automated scripts, for the feature to be tested in the sprint.
 
-##### Assumptions, Suspensions, and Resumptions
+## **Assumptions, Suspensions, and Resumptions**
 
 Sunseeker app will work on the attached link browser description. Browser compatibility is the most important at least the web application supports the below-mentioned browser.  
 **Browser Support**: Chrome, Firefox, Safari, and Internet Explorer   
 **Responsiveness**: Mobile Responsiveness
 
-##### Project Management Tool
+## **Project Management Tool**
 
 - JIRA for the Sprint cycle management
 - Confluence for the track of the documents
 - Figma for the Design
 
-##### Test Management Tool
+## **Test Management Tool**
 
 - JIRA for Bug/Defect Tracking
 - Confluence to track the documents
 - Google spreadsheet to handle the SOW (One pager).
 - Google document to handle the Release notes, Diagnosis Report, etc.
 
-##### Test Environment
+## **Test Environment**
 
 - Web application (Chrome / Firefox / Safari)
 - Development
@@ -105,18 +102,18 @@ Sunseeker app will work on the attached link browser description. Browser compat
 - Android Studio
 - Virtual Machine for the Device compatibility
 
-##### Tools Used
+## **Tools Used**
 
 - Appium for Mobile App Testing
 - JMeter for Non-functional Test
 - Postman for the APIs testing
 - Cypress for end to end Web app testing
 
-##### Preliminary Action needs to be taken before Sprint
+## **Preliminary Action needs to be taken before Sprint**
 
 Before starting the Sprint all the team members should sit and have a Backlog Grooming session. By doing this Project Manager will communicate about the task to all the team members so that the QA team can fill all the Acceptance Criteria and the Definition of Done to the Description of the Task on JIRA.
 
-##### Test to Perform
+## **Test to Perform**
 
 - Design mockup UI test.
 - Perform the test case document.
@@ -126,14 +123,14 @@ Before starting the Sprint all the team members should sit and have a Backlog Gr
 - Prepare the Test Coverage Report.
 - Prepare a Release note and the Sprint User Manual.
 
-##### Issue Logging (Defect Tracking and Reporting)
+## **Issue Logging (Defect Tracking and Reporting)**
 
 Issues will be logged using JIRA and depending upon the severity, the issue will be tracked in the backlog or assigned to the developer in the current sprint.
 
 ![Test Plan - Defect tracking and Reporting workflow.png](XDdkyEAgpMs4oDkr-test-plan-sandcastle.png)  
 Fig: Defect tracking and Reporting workflow
 
-##### Defect Severity
+## **Defect Severity**
 
 Defect found during the Testing will be categorized according to the bug-reporting tool and the Categories are:
 
@@ -152,18 +149,16 @@ Defect found during the Testing will be categorized according to the bug-reporti
 
 </td></tr></tbody></table>
 
-#####   
-Bug Reporting Template
+## **Bug Reporting Template**
 
   
 For the Bug Reporting Template Please follow the below-mentioned [link](https://docs.google.com/document/d/1Dnohx3NVnYApA9XNPiAE_CVG9sMFB2QK3H3piSpT5kc/edit).
 
-##### JIRA Task Template
+## **JIRA Task Template**
 
 For the Task filing template please follow the below-mentioned [link](https://docs.google.com/document/d/1YpKUTu3YFFgVi_w2hWf1qC28DNDxgA5Lmu57y8Rsza0/edit).
 
-#####   
-Test Completeness
+## **Test Completeness**
 
 A few criteria to check Test Completeness would be
 
@@ -174,23 +169,23 @@ A few criteria to check Test Completeness would be
 - The feature must incorporate the client feedback while releasing the feature.
 - In case of no bug, the team must have a discussion and close that ticket.
 
-##### Test Deliverables
+## **Test Deliverables**
 
 Test deliverables are provided as below:
 
-**Before Testing Phase**
+## **Before Testing Phase**
 
 - Preparation of the Test Plan document.
 - Preliminary preparation of the Test Case document.
 - Review the Acceptance Criteria.
 
-##### During the Testing
+## **During the Testing**
 
 - Gather the Test Data
 - Complete the Test Case document
 - Move JIRA tickets to the done
 
-##### After the testing cycle is over
+## **After the testing cycle is over**
 
 - Test Results/Report
 - Defect Report /Diagnostic Report
@@ -198,7 +193,7 @@ Test deliverables are provided as below:
 - Installation guide / Deployment Instruction (if needed)
 - Prepare a Release note.
 
-##### Test Process
+## **Test Process**
 
   
 Testing must be planned and it requires discipline to act upon it. The quality and effectiveness of software testing are primarily determined by the quality of the test processes used.  
@@ -212,7 +207,7 @@ The activities of testing can be divided into the following basic steps:
 
 Please follow the below attached [link](https://www.toolsqa.com/software-testing/test-process-in-software-testing/) for a better understanding.
 
-##### Roles and Responsibilities
+## **Roles and Responsibilities**
 
 <table border="1" id="bkmrk-s.n.-roles-responsib" style="border-collapse: collapse; width: 100%;"><tbody><tr><td style="width: 25%;">S.N.</td><td style="width: 25%;">Roles</td><td style="width: 31.4198%;">Responsibilities</td><td style="width: 18.5802%;">Remarks</td></tr><tr><td style="width: 25%;">1</td><td style="width: 25%;">Quality Assurance Engineer</td><td style="width: 31.4198%;">- Manual Testing
 - Automation Testing
@@ -222,18 +217,18 @@ Please follow the below attached [link](https://www.toolsqa.com/software-testing
 
 </td><td style="width: 18.5802%;"> </td></tr></tbody></table>
 
-##### Risks, Issues, and Dependencies
+## **Risks, Issues, and Dependencies**
 
 The team will perform a short triage meeting where they discuss the severity of the defects/bug and prioritize accordingly. The team should work on assigning the bug to the developer without being hampered in the sprint cycle.  
 Please go to the Section Defect tracking and reporting section.
 
-##### List of Approvals
+## **List of Approvals**
 
 A list of the team members will approve the documents
 
 <table border="1" id="bkmrk-s.n.-name-role-1-%C2%A0-p" style="border-collapse: collapse; width: 100%;"><tbody><tr><td style="width: 50%;">S.N.</td><td style="width: 25%;">Name</td><td style="width: 25%;">Role</td></tr><tr><td style="width: 50%;">1</td><td style="width: 25%;"> </td><td style="width: 25%;">Product Owner</td></tr><tr><td style="width: 50%;">2</td><td style="width: 25%;"> </td><td style="width: 25%;">Development Lead</td></tr></tbody></table>
 
-##### Terms/Acronyms
+## **Terms/Acronyms**
 
   
 List of the Acronyms mostly used in the project.

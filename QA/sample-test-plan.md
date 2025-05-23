@@ -110,17 +110,13 @@ Issues will be logged using JIRA and depending upon the severity, the issue will
 
 Defect found during the Testing will be categorized according to the bug-reporting tool and the Categories are:
 
-| Severity       | Impact |
-|----------------|--------|
-| **1 (Critical)** | - This bug is critical enough to crash the system, cause file corruption, or potential data loss  
-- It causes an abnormal return to the OS (crash or failure message appears)  
-- It causes the application to hang and requires rebooting the system |
-| **2 (High)**     | - It causes a lack of vital program functionality, but there is a workaround |
-| **3 (Medium)**   | - Degrades system quality, but there is a workaround (e.g., through another screen)  
-- Prevents testing of some areas, but others can be tested independently |
-| **4 (Low)**      | - Insufficient or unclear error message with minimal impact on use |
-| **5 (Cosmetic)** | - Insufficient or unclear error message with no impact on use |
-
+| Severity         | Impact                                                                                                                                                                                                                                                        |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1 (Critical)** | - This bug is critical enough to crash the system, cause file corruption, or potential data loss<br>- It causes an abnormal return to the OS (crash or failure message appears)  <br>- It causes the application to hang and requires rebooting the system \| |
+| **2 (High)**     | - It causes a lack of vital program functionality, but there is a workaround                                                                                                                                                                                  |
+| **3 (Medium)**   | - Degrades system quality, but there is a workaround (e.g., through another screen)<br>- Prevents testing of some areas, but others can be tested independently                                                                                               |
+| **4 (Low)**      | - Insufficient or unclear error message with minimal impact on use                                                                                                                                                                                            |
+| **5 (Cosmetic)** | - Insufficient or unclear error message with no impact on use                                                                                                                                                                                                 |
 
 ### **Bug Reporting Template**
 

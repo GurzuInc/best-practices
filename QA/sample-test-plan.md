@@ -6,7 +6,7 @@
 
 | Date       | Version | Author      | Reviewed By   | Revised Date |
 |------------|---------|-------------|---------------|--------------|
-| MM-DD-YYYY | x.x.x   | QA Engineer | Product Owner | MM-DD-YYYY   |
+| DD-MM-YYYY | x.x.x   | QA Engineer | Product Owner | DD-MM-YYYY   |
 
 
 ### Table of Contents
@@ -27,15 +27,14 @@
 14. [JIRA Task Template](#jira-task-template)  
 15. [Test Completeness](#test-completeness)  
 16. [Test Deliverables](#test-deliverables)  
-17. [Before Testing Phase](#before-testing-phase)  
-18. [During the Testing](#during-the-testing)  
-19. [After the Testing Cycle is Over](#after-the-testing-cycle-is-over)  
-20. [Test Process](#test-process)  
-21. [Roles and Responsibilities](#roles-and-responsibilities)  
-22. [Risks, Issues, and Dependencies](#risks-issues-and-dependencies)  
-23. [List of Approvals](#list-of-approvals)  
-24. [Terms/Acronyms](#termsacronyms)  
-
+    - [Before Testing Phase](#before-testing-phase)  
+    - [During the Testing](#during-the-testing)  
+    - [After the Testing Cycle is Over](#after-the-testing-cycle-is-over)  
+17. [Test Process](#test-process)  
+18. [Roles and Responsibilities](#roles-and-responsibilities)  
+19. [Risks, Issues, and Dependencies](#risks-issues-and-dependencies)  
+20. [List of Approvals](#list-of-approvals)  
+21. [Terms/Acronyms](#termsacronyms)  
 
 ### **About document**
 
@@ -52,7 +51,7 @@ After the Sprint planning, the QA team will prepare all the required test data, 
 ### **Assumptions, Suspensions, and Resumptions**
 
 Sunseeker app will work on the attached link browser description. Browser compatibility is the most important at least the web application supports the below-mentioned browser.  
-**Browser Support**: Chrome, Firefox, Safari, and Internet Explorer   
+**Browser Support**: Chrome, Firefox, Safari, and Microsoft Edge   
 **Responsiveness**: Mobile Responsiveness
 
 ### **Project Management Tool**
@@ -82,7 +81,7 @@ Sunseeker app will work on the attached link browser description. Browser compat
 - Appium for Mobile App Testing
 - JMeter for Non-functional Test
 - Postman for the APIs testing
-- Cypress for end to end Web app testing
+- Cypress/Selenium for end to end Web app testing
 
 ### **Preliminary Action needs to be taken before Sprint**
 
@@ -120,7 +119,6 @@ Defect found during the Testing will be categorized according to the bug-reporti
 
 ### **Bug Reporting Template**
 
-  
 For the Bug Reporting Template Please follow the below-mentioned [link](https://docs.google.com/document/d/1Dnohx3NVnYApA9XNPiAE_CVG9sMFB2QK3H3piSpT5kc/edit).
 
 ### **JIRA Task Template**
@@ -142,19 +140,19 @@ A few criteria to check Test Completeness would be
 
 Test deliverables are provided as below:
 
-### **Before Testing Phase**
+#### **Before Testing Phase**
 
 - Preparation of the Test Plan document.
 - Preliminary preparation of the Test Case document.
 - Review the Acceptance Criteria.
 
-### **During the Testing**
+#### **During the Testing**
 
 - Gather the Test Data
 - Complete the Test Case document
 - Move JIRA tickets to the done
 
-### **After the testing cycle is over**
+#### **After the testing cycle is over**
 
 - Test Results/Report
 - Defect Report /Diagnostic Report
@@ -164,7 +162,6 @@ Test deliverables are provided as below:
 
 ### **Test Process**
 
-  
 Testing must be planned and it requires discipline to act upon it. The quality and effectiveness of software testing are primarily determined by the quality of the test processes used.  
 The activities of testing can be divided into the following basic steps:
 
@@ -178,13 +175,9 @@ Please follow the below attached [link](https://www.toolsqa.com/software-testing
 
 ### **Roles and Responsibilities**
 
-<table border="1" id="bkmrk-s.n.-roles-responsib" style="border-collapse: collapse; width: 100%;"><tbody><tr><td style="width: 25%;">S.N.</td><td style="width: 25%;">Roles</td><td style="width: 31.4198%;">Responsibilities</td><td style="width: 18.5802%;">Remarks</td></tr><tr><td style="width: 25%;">1</td><td style="width: 25%;">Quality Assurance Engineer</td><td style="width: 31.4198%;">- Manual Testing
-- Automation Testing
-- Non Functional Test
-- API Tests
-- Preparation of all the documents and reports.
-
-</td><td style="width: 18.5802%;"> </td></tr></tbody></table>
+| S.N. | Roles                    | Responsibilities                                                                                                         | Remarks |
+|------|--------------------------|--------------------------------------------------------------------------------------------------------------------------|---------|
+| 1    | Quality Assurance Engineer |  - Manual Testing <br> - Automation Testing <br> - Non-Functional Test <br> - API Tests <br> - Preparation of all documents and reports. |         |
 
 ### **Risks, Issues, and Dependencies**
 
@@ -200,14 +193,13 @@ A list of the team members will approve the documents
 | 1    |      | Product Owner   |
 | 2    |      | Development Lead|
 
-
 ### **Terms/Acronyms**
   
 List of the Acronyms mostly used in the project.
 
 | Term/Acronym | Definition/Full Form                 |
 |--------------|--------------------------------------|
-| UAT          | User Acceptance Test/ing             |
+| UAT          | User Acceptance Testing             |
 | API          | Application Program Interface        |
 | TDD          | Test-Driven Development              |
 | BDD          | Behavior Driven Development          |

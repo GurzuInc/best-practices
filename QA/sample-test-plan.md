@@ -102,7 +102,7 @@ Before starting the Sprint all the team members should sit and have a Backlog Gr
 
 Issues will be logged using JIRA and depending upon the severity, the issue will be tracked in the backlog or assigned to the developer in the current sprint.
 
-![Test Plan - Defect tracking and Reporting workflow.png](Defect-tracking-and-Reporting-workflow.png)
+![Test Plan - Defect tracking and Reporting workflow.png](defect-tracking-and-reporting-workflow.png)
 <p align="center"><em>Fig: Defect tracking and Reporting workflow</em></p>
 
 

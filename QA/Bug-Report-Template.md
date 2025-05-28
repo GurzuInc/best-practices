@@ -111,7 +111,7 @@
 
   
 
-<span style="font-weight: 400;" align="center">Fig: Bug Report Exmample</span>
+<p align="center">Fig: Bug Report Example</p>
 
   
 
@@ -123,7 +123,7 @@
 
   
 
-### <span style="font-weight: 400;">Task Title </span>
+### <p style="font-weight: 400;">Task Title </p>
 
   
 
@@ -385,7 +385,7 @@ Done on this level refer to a organizational strategic priority, portfolio plan 
 
   
 
-<span style="font-weight: 400;" align="center">Fig: defect tracking &amp; reporting flowchart</span>
+<p align="center">Fig: Defect Tracking &amp; Reporting Flowchart</p>
 
   
 

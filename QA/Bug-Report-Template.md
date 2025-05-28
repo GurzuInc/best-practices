@@ -107,7 +107,7 @@
 
   
 
-[![image-1626092642546.png](Images\Screenshots-Example.png)
+[![image-1626092642546.png](Images/Screenshots-Example.png)
 
   
 
@@ -381,7 +381,7 @@ Done on this level refer to a organizational strategic priority, portfolio plan 
 
   
 
-[![image-1626085953602.png](Images\Defect-Tracking-and-Reporting-Flow-chart.png)
+[![image-1626085953602.png](Images/Defect-Tracking-and-Reporting-Flow-chart.png)
 
   
 

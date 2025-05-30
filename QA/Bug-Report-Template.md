@@ -1,9 +1,39 @@
+# Table of Contents
+
+- [Bug Reporting Template](#bug-reporting-template)
+  - [Who can report Defect/Bug?](#who-can-report-defectbug)
+  - [Template](#template)
+    - [Bug Title](#bug-title)
+    - [Description](#description)
+    - [Platform/Environment/Version/Context](#platformenvironmentversioncontext)
+    - [Roles](#roles)
+    - [Step to Reproduce](#step-to-reproduce)
+    - [Expected Results](#expected-results)
+    - [Actual Results](#actual-results)
+    - [Screenshot / Attachments / Screen Recording](#screenshot--attachments--screen-recording)
+    - [Example](#example)
+
+- [Task Filing Template](#task-filing-template)
+  - [Task Title](#task-title)
+  - [Description](#description)
+  - [Acceptance Criteria (AC)](#acceptance-criteria-ac)
+    - [Scenario-oriented (Given/When/Then)](#scenario-oriented-givenwhenthen)
+    - [Rule-oriented (Checklist)](#rule-oriented-checklist)
+    - [Custom formats](#custom-formats)
+  - [Definition of Done (DoD)](#definition-of-done-dod)
+    - [User Stories](#user-stories)
+    - [Features](#features)
+    - [Epics](#epics)
+  - [Design Mockup/wireframe as a Attachments](#design-mockupwireframe-as-a-attachments)
+
+- [Defect Tracking and Reporting Flow Chart](#defect-tracking-and-reporting-flow-chart)
+  - [Defect Tracking and Reporting Flow chart](#defect-tracking-and-reporting-flow-chart-1)
+  - [Defect Severity](#defect-severity)
+
 
 # Bug Reporting Template
 
-  
-
-#### <span style="font-weight: 400;">Who can report Defect/Bug?</span>
+## Who can report Defect/Bug?
 
   
 
@@ -23,15 +53,15 @@
 
   
 
-### <span style="font-weight: 400;">Template</span>
+## Template
 
   
 
-<span style="font-weight: 400;">---------------------------------------</span>
+---
 
   
 
-#### <span style="font-weight: 400;">Bug Title </span>
+### Bug Title
 
   
 
@@ -43,7 +73,7 @@
 
   
 
-#### <span style="font-weight: 400;">Description</span>
+### Description
 
   
 
@@ -51,7 +81,7 @@
 
   
 
-#### <span style="font-weight: 400;">Platform/Environment/Version/Context</span>
+### Platform/Environment/Version/Context
 
   
 
@@ -59,7 +89,7 @@
 
   
 
-#### <span style="font-weight: 400;">Roles</span>
+### Roles
 
   
 
@@ -67,7 +97,7 @@
 
   
 
-#### <span style="font-weight: 400;">Step to Reproduce</span>
+### Step to Reproduce
 
   
 
@@ -75,7 +105,7 @@
 
   
 
-#### <span style="font-weight: 400;">Expected Results</span>
+### Expected Results
 
   
 
@@ -83,7 +113,7 @@
 
   
 
-#### <span style="font-weight: 400;">Actual Results</span>
+### Actual Results
 
   
 
@@ -91,7 +121,7 @@
 
   
 
-#### <span style="font-weight: 400;">Screenshot / Attachments / Screen Recording</span>
+### Screenshot / Attachments / Screen Recording
 
   
 
@@ -103,7 +133,7 @@
 
   
 
-#### <span style="font-weight: 400;">Example</span>
+### Example
 
   
 
@@ -123,7 +153,7 @@
 
   
 
-### <p style="font-weight: 400;">Task Title </p>
+## Task Title
 
   
 
@@ -131,7 +161,7 @@
 
   
 
-### <span style="font-weight: 400;">Description</span>
+## Description
 
   
 
@@ -139,7 +169,7 @@
 
   
 
-### <span style="font-weight: 400;">Acceptance Criteria ([AC](https://www.altexsoft.com/blog/business/acceptance-criteria-purposes-formats-and-best-practices/))</span>
+## Acceptance Criteria ([AC](https://www.altexsoft.com/blog/business/acceptance-criteria-purposes-formats-and-best-practices/))
 
   
 
@@ -151,7 +181,7 @@
 
   
 
-- **Scenario-oriented (Given/When/And/Then):**
+- ###**Scenario-oriented (Given/When/And/Then):**
 
   
 
@@ -269,7 +299,7 @@ We can invent our own acceptance criteria given they serve their purposes, are w
 
   
 
-### <span style="font-weight: 400;">Definition of Done ([DoD](https://www.leadingagile.com/2017/02/definition-of-done/))</span>
+## Definition of Done ([DoD](https://www.leadingagile.com/2017/02/definition-of-done/))
 
   
 
@@ -277,7 +307,7 @@ We can invent our own acceptance criteria given they serve their purposes, are w
 
   
 
-##### <span style="font-weight: 400;">User Stories</span>
+### User Stories
 
   
 
@@ -303,7 +333,7 @@ The most common use of DoD is on the delivery team level. Done on this level mea
 
   
 
-##### Features
+### Features
 
   
 
@@ -333,7 +363,7 @@ Done on this level means it qualifies to add to a release. Not all user stories 
 
   
 
-##### Epics
+### Epics
 
   
 
@@ -357,7 +387,7 @@ Done on this level refer to a organizational strategic priority, portfolio plan 
 
   
 
-### <span style="font-weight: 400;">Design Mockup/wireframe as a Attachments</span>
+## Design Mockup/wireframe as a Attachments
 
   
 
@@ -373,7 +403,7 @@ Done on this level refer to a organizational strategic priority, portfolio plan 
 
   
 
-## <span style="font-weight: 400;">Defect Tracking and Reporting Flow chart</span>
+## Defect Tracking and Reporting Flow chart
 
   
 
@@ -389,7 +419,7 @@ Done on this level refer to a organizational strategic priority, portfolio plan 
 
   
 
-## <span style="font-weight: 400;">Defect Severity</span>
+## Defect Severity
 
   
 

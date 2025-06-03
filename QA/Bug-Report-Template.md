@@ -1,3 +1,4 @@
+# Bug Report Template
 # Table of Contents
 
 - [Bug Reporting Template](#bug-reporting-template)
@@ -488,6 +489,3 @@ https://www.softwaretestinghelp.com/defect-reporting-habits/
   
 
 <div id="bkmrk--0"><div><div></div></div><svg class="SnapLinksHighlighter" xmlns="http://www.w3.org/2000/svg"> </svg></div>
-
-  
-
